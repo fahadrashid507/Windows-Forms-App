@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Client\Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Client\Form5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Update="Server\src\server.ts">
+      <SubType>Code</SubType>
+    </None>
+  </ItemGroup>
+</Project>
